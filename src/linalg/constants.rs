@@ -1,0 +1,2 @@
+pub static RADIANS_TO_DEGREES : f32 = 57.2957795;
+pub static DEGREES_TO_RADIANS : f32 = 0.01745329;
