@@ -1,0 +1,6 @@
+.rust
+build
+*.swp
+*~
+*.so
+
